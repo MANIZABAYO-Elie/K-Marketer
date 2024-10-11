@@ -638,6 +638,18 @@ video {
   margin-left: px;
 }
 
+.ml-\[10px\] {
+  margin-left: 10px;
+}
+
+.ml-\[-10px\] {
+  margin-left: -10px;
+}
+
+.ml-\[-20px\] {
+  margin-left: -20px;
+}
+
 .flex {
   display: flex;
 }
