@@ -562,6 +562,10 @@ video {
   margin: 36px;
 }
 
+.m-\[-400px\] {
+  margin: -400px;
+}
+
 .ml-\[136px\] {
   margin-left: 136px;
 }
@@ -698,8 +702,36 @@ video {
   margin-top: -250px;
 }
 
+.mt-\[200px\] {
+  margin-top: 200px;
+}
+
+.mt-\[00px\] {
+  margin-top: 00px;
+}
+
+.mt-\[-600px\] {
+  margin-top: -600px;
+}
+
+.mt-\[-20px\] {
+  margin-top: -20px;
+}
+
+.mt-\[-270px\] {
+  margin-top: -270px;
+}
+
+.mt-\[-2500px\] {
+  margin-top: -2500px;
+}
+
 .flex {
   display: flex;
+}
+
+.grid {
+  display: grid;
 }
 
 .size-10 {
@@ -803,6 +835,22 @@ video {
   height: 193px;
 }
 
+.h-\[6px\] {
+  height: 6px;
+}
+
+.h-\[40\] {
+  height: 40;
+}
+
+.h-\[40\.\] {
+  height: 40.;
+}
+
+.h-\[40\.71px\] {
+  height: 40.71px;
+}
+
 .w-\[1\2c 050px\] {
   width: 1,050px;
 }
@@ -871,6 +919,42 @@ video {
   width: 48px;
 }
 
+.w-\[206px\] {
+  width: 206px;
+}
+
+.w-\[px\] {
+  width: px;
+}
+
+.w-\[143px\] {
+  width: 143px;
+}
+
+.w-\[245px\] {
+  width: 245px;
+}
+
+.w-\[328px\] {
+  width: 328px;
+}
+
+.w-\[24px\] {
+  width: 24px;
+}
+
+.w-\[173px\] {
+  width: 173px;
+}
+
+.w-\[174px\] {
+  width: 174px;
+}
+
+.grid-cols-6 {
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -915,6 +999,22 @@ video {
   gap: 20px;
 }
 
+.gap-\[15px\] {
+  gap: 15px;
+}
+
+.gap-\[1px\] {
+  gap: 1px;
+}
+
+.gap-\[1\] {
+  gap: 1;
+}
+
+.gap-\[\] {
+  gap: ;
+}
+
 .rounded-\[37px\] {
   border-radius: 37px;
 }
@@ -925,6 +1025,14 @@ video {
 
 .border-\[1px\] {
   border-width: 1px;
+}
+
+.border-\[\] {
+  border-color: ;
+}
+
+.border-\[1\] {
+  border-color: 1;
 }
 
 .bg-\[hsla\(35\2c 100\%\2c 58\%\2c 1\)\] {
@@ -945,6 +1053,15 @@ video {
 
 .bg-\[bg-\[hsla\(228\2c 28\%\2c 20\%\2c 1\)\]\] {
   background-color: bg-[hsla(228,28%,20%,1)];
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
+}
+
+.bg-\[wh\] {
+  background-color: wh;
 }
 
 .bg-\[url\(\'\/images\/background\.jpg\'\)\] {
@@ -1031,6 +1148,114 @@ video {
   padding-top: 20px;
 }
 
+.pt-\[35px\] {
+  padding-top: 35px;
+}
+
+.pb-\[35px\] {
+  padding-bottom: 35px;
+}
+
+.pr-\[35px\] {
+  padding-right: 35px;
+}
+
+.pr-\[40px\] {
+  padding-right: 40px;
+}
+
+.pl-\[35px\] {
+  padding-left: 35px;
+}
+
+.pl-\[40px\] {
+  padding-left: 40px;
+}
+
+.pt-\[13\] {
+  padding-top: 13;
+}
+
+.pt-\[130\] {
+  padding-top: 130;
+}
+
+.pt-\[130px\] {
+  padding-top: 130px;
+}
+
+.pt-\[-130px\] {
+  padding-top: -130px;
+}
+
+.pt-\[-10px\] {
+  padding-top: -10px;
+}
+
+.pt-\[-0px\] {
+  padding-top: -0px;
+}
+
+.pt-\[-300px\] {
+  padding-top: -300px;
+}
+
+.pt-\[-500px\] {
+  padding-top: -500px;
+}
+
+.pt-\[500px\] {
+  padding-top: 500px;
+}
+
+.pt-\[00px\] {
+  padding-top: 00px;
+}
+
+.pt-\[-600px\] {
+  padding-top: -600px;
+}
+
+.pt-\[-800px\] {
+  padding-top: -800px;
+}
+
+.pr-\[\] {
+  padding-right: ;
+}
+
+.pb-\[35\] {
+  padding-bottom: 35;
+}
+
+.pt-\[2\] {
+  padding-top: 2;
+}
+
+.pt-\[-250px\] {
+  padding-top: -250px;
+}
+
+.pt-\[-100px\] {
+  padding-top: -100px;
+}
+
+.pt-\[-00px\] {
+  padding-top: -00px;
+}
+
+.pt-\[-400px\] {
+  padding-top: -400px;
+}
+
+.pt-\[1\] {
+  padding-top: 1;
+}
+
+.pt-\[15px\] {
+  padding-top: 15px;
+}
+
 .text-left {
   text-align: left;
 }
@@ -1059,6 +1284,10 @@ video {
   font-size: 40px;
 }
 
+.text-\[16px\] {
+  font-size: 16px;
+}
+
 .font-\[800\] {
   font-weight: 800;
 }
@@ -1069,6 +1298,14 @@ video {
 
 .font-\[700\] {
   font-weight: 700;
+}
+
+.font-\[1\] {
+  font-weight: 1;
+}
+
+.font-\[16px\] {
+  font-weight: 16px;
 }
 
 .leading-10 {
@@ -1107,6 +1344,14 @@ video {
   line-height: 57px;
 }
 
+.leading-3 {
+  line-height: .75rem;
+}
+
+.leading-\[24px\] {
+  line-height: 24px;
+}
+
 .tracking-tighter {
   letter-spacing: -0.05em;
 }
@@ -1122,6 +1367,22 @@ video {
 
 .text-\[\] {
   color: ;
+}
+
+.text-\[hsla\(228\2c 28\%\2c 20\%\2c 1\)\] {
+  color: hsla(228,28%,20%,1);
+}
+
+.text-\[v\] {
+  color: v;
+}
+
+.text-\[hsla\(0\2c 0\%\2c 45\%\2c 1\)\] {
+  color: hsla(0,0%,45%,1);
+}
+
+.text-\[16\] {
+  color: 16;
 }
 
 .focus\:outline-none:focus {
