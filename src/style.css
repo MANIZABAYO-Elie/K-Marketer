@@ -650,6 +650,14 @@ video {
   margin-left: -20px;
 }
 
+.mt-\[100px\] {
+  margin-top: 100px;
+}
+
+.mb-\[100px\] {
+  margin-bottom: 100px;
+}
+
 .flex {
   display: flex;
 }
@@ -727,6 +735,30 @@ video {
   height: 100vh;
 }
 
+.h-\[813px\] {
+  height: 813px;
+}
+
+.h-\[107px\] {
+  height: 107px;
+}
+
+.h-\[1px\] {
+  height: 1px;
+}
+
+.h-\[197px\] {
+  height: 197px;
+}
+
+.h-\[57px\] {
+  height: 57px;
+}
+
+.h-\[40px\] {
+  height: 40px;
+}
+
 .w-\[1\2c 050px\] {
   width: 1,050px;
 }
@@ -761,6 +793,30 @@ video {
 
 .w-\[185px\] {
   width: 185px;
+}
+
+.w-\[1440px\] {
+  width: 1440px;
+}
+
+.w-\[\] {
+  width: ;
+}
+
+.w-\[1050px\] {
+  width: 1050px;
+}
+
+.w-\[35px\] {
+  width: 35px;
+}
+
+.w-\[353px\] {
+  width: 353px;
+}
+
+.w-\[470px\] {
+  width: 470px;
 }
 
 .items-center {
@@ -803,6 +859,18 @@ video {
   background-color: hsla(35,100%,58%,1);
 }
 
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[hsla\(228\2c 28\%\2c 20\%\2c 1\)\] {
+  background-color: hsla(228,28%,20%,1);
+}
+
+.bg-\[hsla\(0\2c 0\%\2c 100\%\2c 1\)\] {
+  background-color: hsla(0,0%,100%,1);
+}
+
 .bg-\[url\(\'\/images\/background\.jpg\'\)\] {
   background-image: url('/images/background.jpg');
 }
@@ -835,8 +903,36 @@ video {
   padding-left: 0.25rem;
 }
 
+.pt-\[100px\] {
+  padding-top: 100px;
+}
+
+.pb-\[100px\] {
+  padding-bottom: 100px;
+}
+
+.pb-\[\] {
+  padding-bottom: ;
+}
+
+.pb-\[45px\] {
+  padding-bottom: 45px;
+}
+
+.pt-\[45px\] {
+  padding-top: 45px;
+}
+
+.text-left {
+  text-align: left;
+}
+
 .text-center {
   text-align: center;
+}
+
+.font-\[\] {
+  font-family: ;
 }
 
 .text-\[58px\] {
@@ -847,8 +943,24 @@ video {
   font-size: 20px;
 }
 
+.text-\[14px\] {
+  font-size: 14px;
+}
+
+.text-\[40px\] {
+  font-size: 40px;
+}
+
 .font-\[800\] {
   font-weight: 800;
+}
+
+.font-\[500\] {
+  font-weight: 500;
+}
+
+.font-\[700\] {
+  font-weight: 700;
 }
 
 .leading-10 {
@@ -865,6 +977,30 @@ video {
 
 .leading-\[30px\] {
   line-height: 30px;
+}
+
+.leading-\[500\] {
+  line-height: 500;
+}
+
+.leading-\[5\] {
+  line-height: 5;
+}
+
+.leading-\[20p\] {
+  line-height: 20p;
+}
+
+.leading-\[20px\] {
+  line-height: 20px;
+}
+
+.leading-\[57px\] {
+  line-height: 57px;
+}
+
+.tracking-tighter {
+  letter-spacing: -0.05em;
 }
 
 .text-\[hsla\(0\2c 0\%\2c 100\%\2c 1\)\] {
