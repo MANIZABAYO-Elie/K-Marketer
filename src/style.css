@@ -1140,6 +1140,18 @@ video {
   height: 142px;
 }
 
+.h-\[823px\] {
+  height: 823px;
+}
+
+.h-\[681px\] {
+  height: 681px;
+}
+
+.h-\[81px\] {
+  height: 81px;
+}
+
 .w-\[1\2c 050px\] {
   width: 1,050px;
 }
@@ -1376,6 +1388,14 @@ video {
   width: 102px;
 }
 
+.w-\[455px\] {
+  width: 455px;
+}
+
+.w-\[90px\] {
+  width: 90px;
+}
+
 .grid-cols-6 {
   grid-template-columns: repeat(6, minmax(0, 1fr));
 }
@@ -1520,6 +1540,30 @@ video {
 
 .bg-\[url\(\'\/images\/background\.jpg\'\)\] {
   background-image: url('/images/background.jpg');
+}
+
+.bg-\[url\(\'\/images\/c\.jpg\'\)\] {
+  background-image: url('/images/c.jpg');
+}
+
+.bg-\[url\(\'\/images\/cont\.jpg\'\)\] {
+  background-image: url('/images/cont.jpg');
+}
+
+.bg-\[url\(\'\/images\/contact-\.jpg\'\)\] {
+  background-image: url('/images/contact-.jpg');
+}
+
+.bg-\[url\(\'\/images\/contact-back\.jpg\'\)\] {
+  background-image: url('/images/contact-back.jpg');
+}
+
+.bg-\[url\(\'\/images\/contact-background\.jpg\'\)\] {
+  background-image: url('/images/contact-background.jpg');
+}
+
+.bg-\[url\(\'\/images\/contact-background\.png\'\)\] {
+  background-image: url('/images/contact-background.png');
 }
 
 .bg-cover {
@@ -1813,6 +1857,14 @@ video {
 
 .pt-\[10px\] {
   padding-top: 10px;
+}
+
+.pt-\[24\] {
+  padding-top: 24;
+}
+
+.pt-\[24px\] {
+  padding-top: 24px;
 }
 
 .text-left {
