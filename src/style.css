@@ -1251,6 +1251,10 @@ video {
   width: 234px;
 }
 
+.w-\[12\.01px\] {
+  width: 12.01px;
+}
+
 .grid-cols-6 {
   grid-template-columns: repeat(6, minmax(0, 1fr));
 }
