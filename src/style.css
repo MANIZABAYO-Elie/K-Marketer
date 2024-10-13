@@ -947,6 +947,50 @@ video {
   margin-top: -170px;
 }
 
+.ml-\[200px\] {
+  margin-left: 200px;
+}
+
+.ml-\[300px\] {
+  margin-left: 300px;
+}
+
+.ml-\[0px\] {
+  margin-left: 0px;
+}
+
+.ml-\[350px\] {
+  margin-left: 350px;
+}
+
+.ml-\[500px\] {
+  margin-left: 500px;
+}
+
+.ml-\[520px\] {
+  margin-left: 520px;
+}
+
+.ml-\[510px\] {
+  margin-left: 510px;
+}
+
+.ml-\[2\] {
+  margin-left: 2;
+}
+
+.ml-\[13px\] {
+  margin-left: 13px;
+}
+
+.ml-\[1px\] {
+  margin-left: 1px;
+}
+
+.ml-\[17px\] {
+  margin-left: 17px;
+}
+
 .flex {
   display: flex;
 }
@@ -1150,6 +1194,18 @@ video {
 
 .h-\[81px\] {
   height: 81px;
+}
+
+.h-\[280px\] {
+  height: 280px;
+}
+
+.h-\[50p\] {
+  height: 50p;
+}
+
+.h-\[140px\] {
+  height: 140px;
 }
 
 .w-\[1\2c 050px\] {
@@ -1396,6 +1452,70 @@ video {
   width: 90px;
 }
 
+.w-\[602px\] {
+  width: 602px;
+}
+
+.w-\[28\] {
+  width: 28;
+}
+
+.w-\[285px\] {
+  width: 285px;
+}
+
+.w-\[2px\] {
+  width: 2px;
+}
+
+.w-\[291px\] {
+  width: 291px;
+}
+
+.w-\[598\] {
+  width: 598;
+}
+
+.w-\[598px\] {
+  width: 598px;
+}
+
+.w-\[59px\] {
+  width: 59px;
+}
+
+.w-\[594px\] {
+  width: 594px;
+}
+
+.w-\[596px\] {
+  width: 596px;
+}
+
+.w-\[592px\] {
+  width: 592px;
+}
+
+.w-\[590px\] {
+  width: 590px;
+}
+
+.w-\[588px\] {
+  width: 588px;
+}
+
+.w-\[218\] {
+  width: 218;
+}
+
+.w-\[218p\] {
+  width: 218p;
+}
+
+.w-\[218px\] {
+  width: 218px;
+}
+
 .grid-cols-6 {
   grid-template-columns: repeat(6, minmax(0, 1fr));
 }
@@ -1484,6 +1604,10 @@ video {
   border-radius: 9999px;
 }
 
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
 .border {
   border-width: 1px;
 }
@@ -1498,6 +1622,11 @@ video {
 
 .border-\[1\] {
   border-color: 1;
+}
+
+.border-gray-300 {
+  --tw-border-opacity: 1;
+  border-color: rgb(209 213 219 / var(--tw-border-opacity));
 }
 
 .bg-\[hsla\(35\2c 100\%\2c 58\%\2c 1\)\] {
@@ -1536,6 +1665,16 @@ video {
 .bg-green-950 {
   --tw-bg-opacity: 1;
   background-color: rgb(5 46 22 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#FFA62B\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 166 43 / var(--tw-bg-opacity));
+}
+
+.bg-\[\#FAFAFA\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(250 250 250 / var(--tw-bg-opacity));
 }
 
 .bg-\[url\(\'\/images\/background\.jpg\'\)\] {
@@ -1601,6 +1740,10 @@ video {
 
 .p-\[30px\] {
   padding: 30px;
+}
+
+.p-2 {
+  padding: 0.5rem;
 }
 
 .pt-\[\] {
@@ -1867,6 +2010,10 @@ video {
   padding-top: 24px;
 }
 
+.pt-\[60px\] {
+  padding-top: 60px;
+}
+
 .text-left {
   text-align: left;
 }
@@ -1975,6 +2122,10 @@ video {
   line-height: 24px;
 }
 
+.leading-\[28px\] {
+  line-height: 28px;
+}
+
 .tracking-tighter {
   letter-spacing: -0.05em;
 }
@@ -2029,6 +2180,83 @@ video {
 .text-\[\#252B42\] {
   --tw-text-opacity: 1;
   color: rgb(37 43 66 / var(--tw-text-opacity));
+}
+
+.text-\[\#FFFFFF\] {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
+}
+
+.placeholder\:ml-\[\]::-moz-placeholder {
+  margin-left: ;
+}
+
+.placeholder\:ml-\[\]::placeholder {
+  margin-left: ;
+}
+
+.placeholder\:ml-\[10p\]::-moz-placeholder {
+  margin-left: 10p;
+}
+
+.placeholder\:ml-\[10p\]::placeholder {
+  margin-left: 10p;
+}
+
+.placeholder\:ml-\[10px\]::-moz-placeholder {
+  margin-left: 10px;
+}
+
+.placeholder\:ml-\[10px\]::placeholder {
+  margin-left: 10px;
+}
+
+.placeholder\:text-\[14px\]::-moz-placeholder {
+  font-size: 14px;
+}
+
+.placeholder\:text-\[14px\]::placeholder {
+  font-size: 14px;
+}
+
+.placeholder\:text-\[\]::-moz-placeholder {
+  color: ;
+}
+
+.placeholder\:text-\[\]::placeholder {
+  color: ;
+}
+
+.placeholder\:text-\[14p\]::-moz-placeholder {
+  color: 14p;
+}
+
+.placeholder\:text-\[14p\]::placeholder {
+  color: 14p;
+}
+
+.placeholder\:valid\:ml-\[\]:valid::-moz-placeholder {
+  margin-left: ;
+}
+
+.placeholder\:valid\:ml-\[\]:valid::placeholder {
+  margin-left: ;
+}
+
+.placeholder\:valid\:ml-\[10\]:valid::-moz-placeholder {
+  margin-left: 10;
+}
+
+.placeholder\:valid\:ml-\[10\]:valid::placeholder {
+  margin-left: 10;
+}
+
+.placeholder\:valid\:ml-\[10px\]:valid::-moz-placeholder {
+  margin-left: 10px;
+}
+
+.placeholder\:valid\:ml-\[10px\]:valid::placeholder {
+  margin-left: 10px;
 }
 
 .focus\:outline-none:focus {
